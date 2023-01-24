@@ -7,4 +7,14 @@ def sum():
   b = 20
   summ = a + b
   return summ
-print(sum())
+
+
+def difference():
+  """
+  делает вычитание
+  """
+  a = 50
+  b = 15
+  result = a - b
+  return result
+
